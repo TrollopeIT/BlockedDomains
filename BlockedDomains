@@ -8,8 +8,14 @@ stats.g.doubleclick.net
 pubads.g.doubleclick.net
 
 pagead2.googlesyndication.com
+
+#unity3d
+scar.unityads.unity3d.com
 cdn.iads.unity3d.com
+
+#games
 webapp.gameloop.com
+
 config.ads.vungle.com
 
 #applovin.com
