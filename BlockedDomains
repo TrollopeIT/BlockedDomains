@@ -1,12 +1,15 @@
 horusinternet.com.br
+
+#doubleclick.net
 googleads.g.doubleclick.net
 ad.doubleclick.net
-pagead2.googlesyndication.com
-cdn.iads.unity3d.com
-pubads.g.doubleclick.net
-webapp.gameloop.com
 static.doubleclick.net
 stats.g.doubleclick.net
+pubads.g.doubleclick.net
+
+pagead2.googlesyndication.com
+cdn.iads.unity3d.com
+webapp.gameloop.com
 config.ads.vungle.com
 
 #applovin.com
