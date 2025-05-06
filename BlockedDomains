@@ -12,11 +12,14 @@ pagead2.googlesyndication.com
 #unity3d
 scar.unityads.unity3d.com
 cdn.iads.unity3d.com
+ae.iads.unity3d.com
 
 #games
 webapp.gameloop.com
 
+#vungle
 config.ads.vungle.com
+adx.ads.vungle.com
 
 #applovin.com
 rt.applovin.com
